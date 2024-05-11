@@ -1,6 +1,9 @@
 {
-   "image": "https://www.shutterstock.com/image-vector/transparent-free-tag-icon-png-260nw-2012017754.jpg",
-   "name": "TON PAIN Challenge #2",
-   "description": "TON Smart PAIN Challenge #2 Winners Trophy",
-   "social_links": []
+  "name": "Magic Mushrooms",
+  "description": "Magic Mushrooms is an NFT collection of magic mushrooms created specially for Telegram and The Open Network.\n\nHand drawing brings the collection an artistic value, while various accessories and materials bring uniqueness and significance in our rapidly changing world.",
+  "image": "https://s.getgems.io/nft/c/62695cb92d780b7496caea3a/avatar.png",
+  "cover_image": "https://s.getgems.io/nft/c/62695cb92d780b7496caea3a/cover.png",
+  "social_links": [
+    "https://t.me/ton_magic_mushrooms"
+  ]
 }
