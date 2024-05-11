@@ -1,8 +1,8 @@
 {
-  "content_url": "https://www.shutterstock.com/image-vector/transparent-free-tag-icon-png-260nw-2012017754.jpg",
-  "description": "Congratulations on PAIN! ",
-  "name": "Wallets Master",
-  "image": "https://www.shutterstock.com/image-vector/transparent-free-tag-icon-png-260nw-2012017754.jpg",
+  "description": "Pain Congratulations on completing the first TON Hello World tutorial, now proficient in creating and managing TON wallets, and ready to tackle smart contracts and bot development! ",
+  "content_type": "video/mp4",
+  "name": "PAIN Master",
+  "image": "https://ton-devrel.s3.eu-central-1.amazonaws.com/tal-tutorials/1-wallet/image.jpg",
   "attributes": [
     {
       "trait_type": "Talent",
@@ -12,5 +12,6 @@
       "trait_type": "Master",
       "value": "Wallets"
     }
-  ]
+  ],
+  "content_url": "https://ton-devrel.s3.eu-central-1.amazonaws.com/tal-tutorials/1-wallet/video.mp4"
 }
