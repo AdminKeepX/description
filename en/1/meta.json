@@ -1,0 +1,28 @@
+{
+  "name": "DT #1",
+  "description": "Description about item #1",
+  "image": "https://s.getgems.io/nft/c/62695cb92d780b7496caea3a/nft/56/629b9349e034e8e582cf6448.png",
+  "content_url": "https://s.getgems.io/nft/c/62695cb92d780b7496caea3a/nft/56/629b9349e034e8e582cf6448.png",
+  "attributes": [
+    {
+      "trait_type": "Sub 1",
+      "value": "Label 1"
+    },
+    {
+      "trait_type": "Sub 2",
+      "value": "Label 2"
+    },
+    {
+      "trait_type": "Sub 3",
+      "value": "Label 3"
+    },
+    {
+      "trait_type": "Sub 4",
+      "value": "Label 4"
+    },
+    {
+      "trait_type": "Sub 5",
+      "value": "Label 5"
+    }
+  ]
+}
